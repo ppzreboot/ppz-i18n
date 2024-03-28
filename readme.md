@@ -32,7 +32,7 @@ function Basic() {
 }
 ```
 
-如果需要设置默认语言，在 `main.js` 里：
+如果需要[设置默认语言](./demo/src/main.jsx)，在 `main.js` 里：
 ``` js
 import { setDefaultLang } from 'ppz-i18n'
 

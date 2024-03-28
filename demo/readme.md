@@ -1,6 +1,6 @@
 ``` bash
 git clone https://github.com/ppzreboot/ppz-i18n.git
-cd demo
+cd ppz-i18n/demo
 npm install
 npm run demo
 ```
