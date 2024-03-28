@@ -1,0 +1,19 @@
+{
+  "name": "ppz-i18n",
+  "version": "0.0.1",
+  "description": "A simple lib for i18n.",
+  "main": "index.js",
+  "keywords": [
+    "i18n"
+  ],
+  "author": "PPz",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/react": "^18.2.73",
+    "typescript": "^5.4.3"
+  },
+  "peerDependencies": {
+    "react": ">=18.2.0",
+    "react-dom": ">=18.2.0"
+  }
+}
