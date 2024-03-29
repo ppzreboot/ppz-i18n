@@ -87,4 +87,4 @@ function SomeComponent() {
 }
 ```
 
-> 另外，这里有一个 [demo](./demo)
+> 另外，这里有一个 [demo](./demo)，和 [demo (ts)](./demo-ts/)
