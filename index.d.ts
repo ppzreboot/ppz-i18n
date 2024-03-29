@@ -20,4 +20,4 @@ declare const useLangState: () => [string, setter]
 
 /** give me all languages, return you the right one */
 export
-declare const useLang: () => (trans: any) => ReactNode
+declare const useLang: <V>() => (trans: Record<string, V>) => V
