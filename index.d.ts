@@ -1,5 +1,3 @@
-import type { ReactNode } from 'react'
-
 /** set default language */
 export
 declare const setDefaultLang: (lang: string) => void
@@ -20,4 +18,4 @@ declare const useLangState: () => [string, setter]
 
 /** give me all languages, return you the right one */
 export
-declare const useLang: () => <V>(trans: Record<string, V>) => V
+declare const useLang: () => <K extends string, V>(trans: Record<K, V>) => V
