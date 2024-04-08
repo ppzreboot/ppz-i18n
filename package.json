@@ -1,6 +1,6 @@
 {
   "name": "ppz-i18n",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "A simple lib for i18n.",
   "main": "index.js",
   "keywords": [
